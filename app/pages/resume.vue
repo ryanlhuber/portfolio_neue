@@ -1,3 +1,3 @@
 <template>
-    <h1>Resume Page</h1>
+    <h1 font-eiko text-4xl>Resume Page</h1>
 </template>
