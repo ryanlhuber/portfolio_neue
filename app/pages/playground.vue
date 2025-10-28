@@ -1,3 +1,3 @@
 <template>
-    <h1>Playground Page</h1>
+    <h1 font-eiko text-4xl>Playground Page</h1>
 </template>
