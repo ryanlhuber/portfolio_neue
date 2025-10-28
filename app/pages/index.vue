@@ -7,5 +7,6 @@
             to="/about"
             >About <span class="ml-2">→</span></NuxtLink
         >
+        <Tag text="Hello" />
     </div>
 </template>
